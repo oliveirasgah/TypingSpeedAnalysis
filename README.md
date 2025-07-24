@@ -3,9 +3,9 @@
 Analysis of my own touch typing speed for speed improvement purposes. This
 project consider my results obtained in [Monkeytype](https://monkeytype.com/).
 
-To use this analysis for your own purposes, rename the file
-`config/api.model.json` to `config/api.json` and add you APE key from
-[Monkeytype](https://monkeytype.com/) to the attribute.
+To use this analysis for your own purposes, create the file `config/api.json`
+and add you APE key from [Monkeytype](https://monkeytype.com/) in an object
+with a string attribute `apiKey` as follows:
 ```javascript
 {
     "apiKey": "YOUR_APE_KEY_GOES_HERE"
