@@ -11,3 +11,6 @@ To use this analysis for your own purposes, rename the file
     "apiKey": "YOUR_APE_KEY_GOES_HERE"
 }
 ```
+
+**Note:** For now, the project is just an analysis, so the code and processes are not
+optimized yet.
